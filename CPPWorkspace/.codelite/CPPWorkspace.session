@@ -4,9 +4,9 @@
   <wxString Value="C:\CPP\CPPWorkspace\CPPWorkspace.workspace" Name="m_workspaceName"/>
   <TabInfoArray Name="TabInfoArray">
     <TabInfo>
-      <wxString Value="C:\CPP\CPPWorkspace\Section_3\main.cpp" Name="FileName"/>
-      <int Value="1" Name="FirstVisibleLine"/>
-      <int Value="30" Name="CurrentLine"/>
+      <wxString Value="C:\CPP\CPPWorkspace\Section_4\main.cpp" Name="FileName"/>
+      <int Value="0" Name="FirstVisibleLine"/>
+      <int Value="0" Name="CurrentLine"/>
       <wxArrayString Name="Bookmarks"/>
       <IntVector Name="CollapsedFolds"/>
     </TabInfo>
