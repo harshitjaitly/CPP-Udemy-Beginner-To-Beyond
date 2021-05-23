@@ -6,7 +6,8 @@
   <Project Name="Section_3" Path="Section_3/Section_3.project" Active="No"/>
   <Project Name="Section_4" Path="Section_4/Section_4.project" Active="No"/>
   <Project Name="Section_5" Path="Section_5/Section_5.project" Active="No"/>
-  <Project Name="Section_6" Path="Section6/Section6.project" Active="Yes"/>
+  <Project Name="Section_6" Path="Section6/Section6.project" Active="No"/>
+  <Project Name="Section_7" Path="Section_7/Section_7.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug" Selected="yes">
       <Environment/>
@@ -17,6 +18,7 @@
       <Project Name="Section_4" ConfigName="Debug"/>
       <Project Name="Section_5" ConfigName="Debug"/>
       <Project Name="Section_6" ConfigName="Debug"/>
+      <Project Name="Section_7" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release" Selected="yes">
       <Environment/>
@@ -27,6 +29,7 @@
       <Project Name="Section_4" ConfigName="Release"/>
       <Project Name="Section_5" ConfigName="Release"/>
       <Project Name="Section_6" ConfigName="Release"/>
+      <Project Name="Section_7" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>
